@@ -1,0 +1,16 @@
+168926 87000
+Step 0 out of 168926Traceback (most recent call last):
+  File "RSM_prepare.py", line 56, in <module>
+    temp = tfidf_matrix[i].todense().tolist()[0]
+  File "/home/neo/anaconda3/lib/python3.6/site-packages/numpy/matrixlib/defmatrix.py", line 388, in tolist
+    return self.__array__().tolist()
+KeyboardInterrupt
+168926 87000
+Step 0 out of 168926Traceback (most recent call last):
+  File "RSM_prepare.py", line 56, in <module>
+    temp = tfidf_matrix[i].todense().tolist()[0]
+  File "/home/neo/anaconda3/lib/python3.6/site-packages/numpy/matrixlib/defmatrix.py", line 388, in tolist
+    return self.__array__().tolist()
+KeyboardInterrupt
+168926 87000
+Step 0 out of 168926Step 1000 out of 168926Step 2000 out of 168926Step 3000 out of 168926Step 4000 out of 168926Step 5000 out of 168926Step 6000 out of 168926Step 7000 out of 168926Step 8000 out of 168926Step 9000 out of 168926Step 10000 out of 168926Step 11000 out of 168926Step 12000 out of 168926Step 13000 out of 168926Step 14000 out of 168926

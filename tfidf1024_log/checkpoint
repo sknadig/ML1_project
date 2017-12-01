@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/neo/ml1/code/ML1_project/tfidf1024_log/features.ckpt"
+all_model_checkpoint_paths: "/home/neo/ml1/code/ML1_project/tfidf1024_log/features.ckpt"

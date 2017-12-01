@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/neo/ml1/code/ML1_project/rbm_log_2048/features.ckpt"
+all_model_checkpoint_paths: "/home/neo/ml1/code/ML1_project/rbm_log_2048/features.ckpt"

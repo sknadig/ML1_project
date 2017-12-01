@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "Variable:0"
+  metadata_path: "/home/neo/ml1/code/ML1_project/tfidf1024_log/metadata.tsv"
+}
